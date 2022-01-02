@@ -4,7 +4,7 @@ let xmr = "";
   
   
   const container = 
-document.getElementById('.container');
+document.getElementById('.container').innerHTML = xmr;
   
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {
