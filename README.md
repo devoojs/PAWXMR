@@ -1,1 +1,1 @@
-# paw-xmr
+# PAWXMR
